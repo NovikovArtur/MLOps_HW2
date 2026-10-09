@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+producer/teta-ml-1-2025/
